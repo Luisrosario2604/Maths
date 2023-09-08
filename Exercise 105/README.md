@@ -10,7 +10,7 @@ No package needed
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
@@ -87,8 +87,10 @@ x = 0.52274853
 x = 0.52274000
 x = 0.52274000
 ```
+
 ## Grade
-For this project i had the score of 13.5 out of 20 
+
+I scored 13.5 out of 20 for this project
 
 13.5/20
 
@@ -96,5 +98,6 @@ For this project i had the score of 13.5 out of 20
 
 This project was done in 2017
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

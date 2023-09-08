@@ -10,7 +10,7 @@ No package needed
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
@@ -113,8 +113,10 @@ DESCRIPTION
 1.02 19.61
 1.02 19.61
 ```
+
 ## Grade
-For this project i had the score of 14.3 out of 20 
+
+I scored 14.3 out of 20 for this project
 
 14.3/20
 
@@ -122,5 +124,6 @@ For this project i had the score of 14.3 out of 20
 
 This project was done in 2018
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

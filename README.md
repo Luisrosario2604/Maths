@@ -22,7 +22,6 @@
 | 206 Neutrinos | Python3 | 15.1/20 | 2019 |
 | 207 Poll | Python3 | 18.1/20 | 2019 |
 
-
 ## Requirement
 
 Language : Python3 / C
@@ -30,6 +29,7 @@ Language : Python3 / C
 No package needed
 
 ## Grade
+
 I have an average of 15.4 out of 20 for math projects
 
 15.4/20
@@ -38,5 +38,6 @@ I have an average of 15.4 out of 20 for math projects
 
 These projects were done between 2017 - 2019
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

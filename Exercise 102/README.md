@@ -42,7 +42,8 @@ Symmetry about an axis inclined with an angle of 30 degrees
 ```
 
 ## Grade
-For this project i had the score of 19.8 out of 20 
+
+I scored 19.8 out of 20 for this project
 
 19.8/20
 
@@ -50,5 +51,6 @@ For this project i had the score of 19.8 out of 20
 
 This project was done in 2017
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)

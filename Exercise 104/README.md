@@ -10,7 +10,7 @@ No package needed
 
 ## Compiling
 
-######Go in the project directory
+###### Go in the project directory
 
 Clean (*.o files)
 ```
@@ -68,8 +68,10 @@ Line passing through the point (-1, -1, -1) and parallel to the vector (1, 1, 5)
 (-1.568, -1.568, -3.842)
 (-0.537, -0.537, 1.315)
 ```
+
 ## Grade
-For this project i had the score of 15.2 out of 20 
+
+I scored 15.2 out of 20 for this project
 
 15.2/20
 
@@ -77,5 +79,6 @@ For this project i had the score of 15.2 out of 20
 
 This project was done in 2017
 
-## License
-Project from [EPITECH](https://www.epitech.eu/) school made by Luis ROSARIO
+## Authors
+
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)
